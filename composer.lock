@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e39daafd023e8a14e29ce1f21dce8f58",
+    "content-hash": "5c68871392f5ae8363dda265969af84d",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1075,7 +1075,6 @@
                 "php": ">=5.5.9",
                 "zircote/swagger-php": "^2.0"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1103,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/lib-central-admin-client.git",
-                "reference": "450ab5e4c45db5b4209cadc39cc8c815a882730f"
+                "reference": "a7d3c26c776b59025eca90aafe0a6a25b1aaebc7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/lib-central-admin-client/zipball/450ab5e4c45db5b4209cadc39cc8c815a882730f",
-                "reference": "450ab5e4c45db5b4209cadc39cc8c815a882730f",
+                "url": "https://api.github.com/repos/Engaged-Nation/lib-central-admin-client/zipball/a7d3c26c776b59025eca90aafe0a6a25b1aaebc7",
+                "reference": "a7d3c26c776b59025eca90aafe0a6a25b1aaebc7",
                 "shasum": ""
             },
             "require": {
@@ -1117,7 +1116,6 @@
             "require-dev": {
                 "phpunit/phpunit": "^6.0"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1129,10 +1127,10 @@
             ],
             "description": "Central Admin Api Client Library",
             "support": {
-                "source": "https://github.com/Engaged-Nation/lib-central-admin-client/tree/master",
+                "source": "https://github.com/Engaged-Nation/lib-central-admin-client/tree/v2.47.0",
                 "issues": "https://github.com/Engaged-Nation/lib-central-admin-client/issues"
             },
-            "time": "2022-02-10T01:34:44+00:00"
+            "time": "2022-01-27T18:04:21+00:00"
         },
         {
             "name": "engaged-nation/lib-encryption",
@@ -1156,7 +1154,6 @@
                 "phpunit/phpunit": "^5.6",
                 "symfony/symfony": "3.2.*"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1204,7 +1201,6 @@
             "require-dev": {
                 "phpunit/phpunit": "^6.0"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1227,12 +1223,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/portal-core.git",
-                "reference": "70e65132246529a2e5b0acf508b75cd89ada99e6"
+                "reference": "1755482a340ce6b5f9c0e92a16f9e685f117401b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/70e65132246529a2e5b0acf508b75cd89ada99e6",
-                "reference": "70e65132246529a2e5b0acf508b75cd89ada99e6",
+                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/1755482a340ce6b5f9c0e92a16f9e685f117401b",
+                "reference": "1755482a340ce6b5f9c0e92a16f9e685f117401b",
                 "shasum": ""
             },
             "require": {
@@ -1263,7 +1259,6 @@
                 "consolidation/robo": "^1.0",
                 "phpunit/phpunit": "^5.6"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1284,7 +1279,7 @@
                 "source": "https://github.com/Engaged-Nation/portal-core/tree/master",
                 "issues": "https://github.com/Engaged-Nation/portal-core/issues"
             },
-            "time": "2022-02-08T18:57:21+00:00"
+            "time": "2022-02-08T18:57:47+00:00"
         },
         {
             "name": "grasmash/expander",
